@@ -1,4 +1,4 @@
-# umi project
+# react project
 
 ## Getting Started
 
