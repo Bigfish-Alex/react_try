@@ -36,14 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-
-.test{
-	position: absolute;
-	top: 0;
-	color: #FFFFFF;
-}
-
-.line{
-  border-bottom: 1px solid #e5e5e5;
-}
